@@ -20,6 +20,8 @@ In the [#bot-commands](https://discord.com/channels/811436417824718878/826853132
 
  1. It will react with a checkmark. 
  *Like this:*
+ 
+ 
  ![Image shows a member using the command and it working correctly.](https://cdn.discordapp.com/attachments/778594651409219615/844595911497089085/Screen_Shot_2021-05-19_at_11.20.45_AM.png)
  2. It will respond with an error message.
  *Like this:*

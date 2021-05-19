@@ -23,9 +23,11 @@ In the [#bot-commands](https://discord.com/channels/811436417824718878/826853132
  
  
  ![Image shows a member using the command and it working correctly.](https://cdn.discordapp.com/attachments/778594651409219615/844595911497089085/Screen_Shot_2021-05-19_at_11.20.45_AM.png)
+ 
+ 
  2. It will respond with an error message.
  *Like this:*
- ![Screenshot of error message displayed if you are unable to recieve DMs from the bot.](https://cdn.discordapp.com/attachments/778594651409219615/844595908431970334/Screen_Shot_2021-05-19_at_11.21.12_AM.png)
+![Screenshot of error message displayed if you are unable to recieve DMs from the bot.](https://cdn.discordapp.com/attachments/778594651409219615/844595908431970334/Screen_Shot_2021-05-19_at_11.21.12_AM.png)
 
 If you get the error message, that means the bot is unable to DM you. You can resolve this by temporaily enabling DMs for the server. This can be done in privacy settings. To access Privacy Settings, first right click the server, and press "Privacy Settings" 
 ![Screenshot from Discord Desktop Client of right clicking the server icon and hovering over "Privacy Settings"](https://cdn.discordapp.com/attachments/778594651409219615/844597242727759933/Screen_Shot_2021-05-19_at_11.27.37_AM.png)
